@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Nikolay1257
-- 👀 I’m interested in Linux, compile for Android kernel firmware etc
+- 👀 I’m interested in android development
 - 🌱 I’m currently learning python c/c++
-- 💞️ I’m looking to collaborate on build firmware android...
-- 📫 How to reach me
-- 🔐 My Telegram @NikolayDev44
+- 💞️ I’m looking to collaborate for assembling Android firmware...
+- 📫 How to reach me Telegram @NikolayDev44
 
 <!---
 Nikolay1257/Nikolay1257 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
