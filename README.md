@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nikolay1257
 - 👀 I’m interested in android development
-- 🌱 I’m currently learning python c/c++
+- 🌱 I’m currently learning Python C/C++
 - 💞️ I’m looking to collaborate for assembling Android firmware...
 - 📫 How to reach me Telegram @NikolayDev44
 
