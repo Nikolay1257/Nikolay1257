@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Nikolay1257
-- 👀 I’m interested in android development
-- 🌱 I’m currently learning Python C/C++
-- 💞️ I’m looking to collaborate for assembling Android firmware...
+- Nikolay 18 y.o backend
 - 📫 How to reach me Telegram @NikolayDev44
 
 <!---
